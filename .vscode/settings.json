@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.tabs.location": "right",
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.tabs.enabled": true
+}
